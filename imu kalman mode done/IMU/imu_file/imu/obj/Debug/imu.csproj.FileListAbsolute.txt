@@ -1,0 +1,31 @@
+c:\users\f229_lab\documents\visual studio 2013\Projects\imu\imu\bin\Debug\imu.exe.config
+c:\users\f229_lab\documents\visual studio 2013\Projects\imu\imu\obj\Debug\imu.csprojResolveAssemblyReference.cache
+c:\users\f229_lab\documents\visual studio 2013\Projects\imu\imu\obj\Debug\imu.Properties.Resources.resources
+c:\users\f229_lab\documents\visual studio 2013\Projects\imu\imu\obj\Debug\imu.csproj.GenerateResource.Cache
+c:\users\f229_lab\documents\visual studio 2013\Projects\imu\imu\bin\Debug\imu.exe
+c:\users\f229_lab\documents\visual studio 2013\Projects\imu\imu\bin\Debug\imu.pdb
+c:\users\f229_lab\documents\visual studio 2013\Projects\imu\imu\obj\Debug\imu.imu.resources
+c:\users\f229_lab\documents\visual studio 2013\Projects\imu\imu\obj\Debug\imu.exe
+c:\users\f229_lab\documents\visual studio 2013\Projects\imu\imu\obj\Debug\imu.pdb
+C:\Users\F229_LAB\Desktop\imu\imu\bin\Debug\imu.exe.config
+C:\Users\F229_LAB\Desktop\imu\imu\obj\Debug\imu.exe
+C:\Users\F229_LAB\Desktop\imu\imu\obj\Debug\imu.pdb
+C:\Users\F229_LAB\Desktop\imu\imu\bin\Debug\imu.exe
+C:\Users\F229_LAB\Desktop\imu\imu\bin\Debug\imu.pdb
+C:\Users\F229_LAB\Desktop\imu\imu\obj\Debug\imu.csprojResolveAssemblyReference.cache
+C:\Users\F229_LAB\Desktop\imu\imu\obj\Debug\imu.imu.resources
+C:\Users\F229_LAB\Desktop\imu\imu\obj\Debug\imu.Properties.Resources.resources
+C:\Users\F229_LAB\Desktop\imu\imu\obj\Debug\imu.csproj.GenerateResource.Cache
+C:\Users\HQHQH\Desktop\imu\imu\bin\Debug\imu.exe.config
+C:\Users\HQHQH\Desktop\imu\imu\obj\Debug\imu.exe
+C:\Users\HQHQH\Desktop\imu\imu\obj\Debug\imu.pdb
+C:\Users\anthony\Desktop\IMU\imu_file\imu\bin\Debug\imu.exe.config
+C:\Users\anthony\Desktop\IMU\imu_file\imu\bin\Debug\imu.exe
+C:\Users\anthony\Desktop\IMU\imu_file\imu\bin\Debug\imu.pdb
+C:\Users\anthony\Desktop\IMU\imu_file\imu\obj\Debug\imu.csproj.AssemblyReference.cache
+C:\Users\anthony\Desktop\IMU\imu_file\imu\obj\Debug\imu.imu.resources
+C:\Users\anthony\Desktop\IMU\imu_file\imu\obj\Debug\imu.Properties.Resources.resources
+C:\Users\anthony\Desktop\IMU\imu_file\imu\obj\Debug\imu.csproj.GenerateResource.cache
+C:\Users\anthony\Desktop\IMU\imu_file\imu\obj\Debug\imu.csproj.CoreCompileInputs.cache
+C:\Users\anthony\Desktop\IMU\imu_file\imu\obj\Debug\imu.exe
+C:\Users\anthony\Desktop\IMU\imu_file\imu\obj\Debug\imu.pdb
